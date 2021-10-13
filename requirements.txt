@@ -1,3 +1,4 @@
 telegram
 Binance
 CoinmarketCap
+python-telegram-bot
